@@ -1,2 +1,1 @@
-# Journal 
-My nickname is Frieza but I'm actually a nice guy. haha Today (07/13/2024) I created a VHD named (J:) because I like that letter and thought it would be cool to commit from Git beginning with J:\ instead of C:\ I hope 50GB is enough. Today I will be reviewing all Administrative Events from my Local & creating system fixes for my local. Many of the issues are stemming from AppReadiness & DCOM. 
+
